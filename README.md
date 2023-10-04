@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect)
+
+# Hello world! I'm Youngsdog <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+
+##  Technologie
+https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngsdog)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💻 
 -->
