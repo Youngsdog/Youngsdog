@@ -2,6 +2,7 @@
 
 # Hello world! I'm Youngsdog <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
+[[!Gmail Badge](https://img.shields.io/badge/ksh930719%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksh930719@gmail.com)](mailto:ksh930719@gmail.com)
 
 ##  Technologie
 https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
