@@ -1,15 +1,15 @@
 <!--![header](https://capsule-render.vercel.app/api?type=rect&color=random&height=150&section=header&text=Welcome%20&fontSize=70&animation=twinkling)-->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, I'm Youngsdog
-**About me**
+**About me**<br/>
 안녕하세요. 시스템 소프트웨어 개발자 김상현입니다.
 끊임없이 공부하면서 성장하며, 좋은 개발자가 되기 위해 노력하겠습니다.
 
-**Interested in**
+**Interested in**<br/>
 ARM Architecture
 Linux Kernel
 
-**Contact**
+**Contact**<br/>
 [![Gmail Badge](https://img.shields.io/badge/-ksh930719%40gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksh930719@gmail.com)](mailto:ksh930719@gmail.com)
 
 ## 🔭 Work Experience
@@ -21,7 +21,7 @@ Linux Kernel
 ## 💻 Project
 
 ## 🌱 Study
-[Linux Kernel Debugging with Raspberry Pi 3]()
+[Linux Kernel Debugging with Raspberry Pi 3]()<br/>
 [Structure and Principle of ARM Architecture for System Software Development]()
  
 <!--
