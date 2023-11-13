@@ -8,12 +8,14 @@
 **Interested in**<br/>
 ARM Architecture<br/>
 Linux Kernel
+TDD for Embedded C
 
 **Contact**<br/>
 [![Gmail Badge](https://img.shields.io/badge/-ksh930719%40gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksh930719@gmail.com)](mailto:ksh930719@gmail.com)
 
 ## 🔭 Work Experience
 **Green Optic, 2023.10-**
+
 
 **Crevis, 2019.03-2021.06**
 * ARM Cortex-M Firmware Development using FreeRTOS
