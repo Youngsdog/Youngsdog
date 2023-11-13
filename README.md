@@ -7,7 +7,7 @@
 
 **Interested in**<br/>
 ARM Architecture<br/>
-Linux Kernel
+Linux Kernel<br/>
 TDD for Embedded C
 
 **Contact**<br/>
