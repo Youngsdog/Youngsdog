@@ -2,8 +2,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, I'm Youngsdog
 **About me**<br/>
-안녕하세요. 시스템 소프트웨어 개발자 김상현입니다.<br/>
-끊임없이 공부하면서 성장하는 개발자가 되기 위해 노력하겠습니다.
+안녕하세요. 임베디드 소프트웨어 개발자 김상현입니다.<br/>
+
 
 **Interested in**<br/>
 ARM Architecture<br/>
@@ -15,7 +15,7 @@ TDD for Embedded C
 
 ## 🔭 Work Experience
 **Green Optic, 2023.10-**
-
+* TI C28x Firmware Development
 
 **Crevis, 2019.03-2021.06**
 * ARM Cortex-M Firmware Development using FreeRTOS
